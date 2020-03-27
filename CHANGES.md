@@ -1,3 +1,6 @@
+0.4.0.1
+=======
+
 * Add Async bindings
 * Split sync and Lwt variants into separate OPAM packages
 * Fix caompatibility with OCaml 4.09
